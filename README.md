@@ -1,8 +1,14 @@
-# React + Vite
+# Fake Bazaar
+Fake Bazaar is a sample e-commerce frontend application built with React and Tailwind CSS. It features a clean navigation bar, routing for various pages, and a modern, responsive design.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
 
-Currently, two official plugins are available:
+- 🛒 Responsive Navigation Bar: Includes links to the home page and a cart page.
+- ⚡ Routing: Utilizes react-router-dom for seamless navigation.
+- 🎨 Customizable Styling: Built with Tailwind CSS for flexibility in design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Dependencies
+
+- React: Frontend framework.
+- React Router DOM: For navigation and routing.
+- Tailwind CSS: Utility-first CSS framework for styling.
